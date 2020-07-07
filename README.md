@@ -10,8 +10,7 @@ Google OAuth Verification with Node.Js
 ## Instructions to run
 
 ```
-$ git clone https://github.com/Kaloory-Team/Backend.git
-$ cd Backend
+$ git clone https://github.com/RajatSablok/nodejs-oauth.git
 $ npm install
 $ npm start
 
